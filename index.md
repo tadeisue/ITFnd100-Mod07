@@ -1,4 +1,4 @@
-# Assignment_07_Functions
+# Assignment_07_Functions, Files and Structured Error Handling #
 
 # Susan Tadei, 5.30.23 #
 # _______________________________________________________ #
@@ -6,8 +6,8 @@
 
 
 # Introduction #
-### I need to insert text to use for the assignment in this section. #
-### I need to insert text to use for the assignment in this section. #                                                                #
+### While learning to use Python, formatting the code with specific #
+### space and text determines how the preview of the final Assignment document will run. #
 ### I need to insert text to use for the assignment in this section. #
 ### I need to insert text to use for the assignment in this section. #
 
