@@ -8,7 +8,7 @@
 # Introduction #
 ### While learning to use Python, formatting the code with specific #
 ### space and text determines how the preview of the final Assignment/Module document will run. #
-### I need to insert text to use for the assignment in this section. #
+### #
 ### I need to insert text to use for the assignment in this section. #
 
 ## Topic 1 #
