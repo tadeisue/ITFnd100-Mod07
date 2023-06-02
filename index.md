@@ -1,4 +1,4 @@
-# Assignment_07_Functions, Files and Structured Error Handling #
+# Assignment_07_Pickling and Structured Error Handling #
 
 ## Susan Tadei, 5.30.23 #
 # _______________________________________________________ #
