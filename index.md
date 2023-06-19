@@ -43,3 +43,5 @@
 # Summary #
 ### I am late turning in Module 7 Assignment because I was in Oregon until late Tuesday, May 30, 2023, and I need to understand the programming process of coding in smaller baby steps, than trying to insert all the data, processing, and presentation code, for hours, only to have the code not run. #
 ### I have been completing the Labs for the Module Assignments, and the labs are helpful, as they are a smaller chunk of the learnin process. With strings, tuples, lists, dictionaries, global and local variables, try/except block, else if statements, there is much to learn, so taking it slowly is a better learning process for me. #               ### Reading the chapters and using the RealPython.com website is very helpful. #
+
+# Making a change to monitor GitHub Website to see if the change (inserted this text) is made.#
